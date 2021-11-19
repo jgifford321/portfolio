@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## 35mm and Cartographic Portfolio
+###Jacob Gifford
 
 You can use the [editor on GitHub](https://github.com/jgifford321/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
